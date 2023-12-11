@@ -50,15 +50,15 @@ Nous allons configurer notre premier peer.&#x20;
 
 **Private Key:** N/A
 
-**Endpoint:**  N/A
+**Endpoint:**  N/A (Est utilisé lors de la création d'un STS)
 
-**Endpoint Port:**  N/A
+**Endpoint Port:**  N/A (Est utilisé lors de la création d'un STS)
 
 **Allowed Address:** Spécifier à l'aide d'un "/32" l'adresse que vous allez attribuer à votre client.
 
 **Preshared Key:** N/A
 
-**Persistent Keepalive:** N/A
+**Persistent Keepalive:** N/A (Peut être utilisé avec certains clients (Doit être configuré des deux côtés).)
 
 {% hint style="danger" %}
 Attention de ne pas attribuer 2 fois la même adresse.
