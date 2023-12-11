@@ -10,6 +10,10 @@ Pour ce faire, rendez-vous dans WireGuard -> WireGuard -> +
 
 <figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption><p>Nommez votre interface</p></figcaption></figure>
 
+{% hint style="warning" %}
+Attention que votre port 13231 ne soit pas déjà utilisé par un service (PBX RTP)
+{% endhint %}
+
 Une fois appliqué, les clés privées et publiques seront créer automatiquement.
 
 <figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
