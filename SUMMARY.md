@@ -41,7 +41,7 @@
 
 * [Configuration](freepbx/configuration.md)
 * [SNOM PA1](freepbx/snom-pa1.md)
-* [Logging](freepbx/logging.md)
+* [CLI](freepbx/cli.md)
 * [Sangoma Phone (App)](freepbx/sangoma-phone-app.md)
 * [Polycom](freepbx/polycom.md)
 
