@@ -4,7 +4,7 @@ description: >-
   correspondants
 ---
 
-# Sangoma Phone (App)
+# 📱 Sangoma Phone (App)
 
 ## Pré-réquis
 

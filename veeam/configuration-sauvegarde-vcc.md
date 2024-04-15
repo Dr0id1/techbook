@@ -2,7 +2,7 @@
 description: Voici les étapes afin de configurer une sauvegarde avec VCC
 ---
 
-# Configuration sauvegarde (VCC)
+# 🧾 Configuration sauvegarde (VCC)
 
 ## Veeam Agent (Windows 10)
 

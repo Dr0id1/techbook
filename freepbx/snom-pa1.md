@@ -1,4 +1,4 @@
-# SNOM PA1
+# 📢 SNOM PA1
 
 Pour configurer un SNOM PA1, vous avez besoin des éléments suivants:
 

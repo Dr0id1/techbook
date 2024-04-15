@@ -4,7 +4,7 @@ description: >-
   Mikrotik
 ---
 
-# Terminal (CLI)
+# ⌨️ CLI
 
 ## VPN
 

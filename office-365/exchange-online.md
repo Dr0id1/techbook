@@ -1,8 +1,19 @@
 ---
 description: Cette page fournie divers trucs et astuces concernant Exchange Online
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
-# Exchange Online
+# ✉️ Exchange
 
 ## Mail Flow
 

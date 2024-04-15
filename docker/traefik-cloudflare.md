@@ -2,7 +2,7 @@
 description: Notes pour Traefik et Cloudflare
 ---
 
-# Traefik / CloudFlare
+# 🛣️ Traefik / CloudFlare
 
 ## Traefik&#x20;
 

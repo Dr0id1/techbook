@@ -2,7 +2,7 @@
 description: Voici comment configurer un trunk VOIP.ms sur FreePBX (SIP et PjSIP)
 ---
 
-# Configuration
+# 🧾 Configuration
 
 ## Connectivity
 

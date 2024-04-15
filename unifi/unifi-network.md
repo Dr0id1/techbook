@@ -2,7 +2,7 @@
 description: Information relatives à l'installation et l'utilisation de Unifi Network
 ---
 
-# Unifi Network
+# 🌐 Unifi Network
 
 ## Installation
 

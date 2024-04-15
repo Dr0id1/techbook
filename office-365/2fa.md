@@ -4,7 +4,7 @@ description: >-
   l'ensemble de l'organisation.
 ---
 
-# 2FA
+# 🔑 2FA
 
 Par défaut, Azure demande à ce que tout les utilisateurs utilise l'authentification à deux facteurs. Pour désactiver cette fonction, vous devez vous connecter à votre organisation à l'aide d'un compte administrateur.
 

@@ -1,4 +1,4 @@
-# Outlook
+# 📬 Outlook (App)
 
 ## Résolution de problème
 
@@ -62,3 +62,47 @@ Les deux paramètres suivants doivent être modifiés:
   * Don’t set this higher than `4294967295`
 * Large PST: Size to disable adding new content
   * Don’t set this higher than `4090445042`
+
+### Migration de IMAP vers Exchange
+
+#### Script VBS
+
+Il est possible que suite à une migration de courriel IMAP vers Exchange, que les courriels et les sous-dossier ne soit plus visible.
+
+Il existe un script VBS qui permet de modifié la propriété de chaque dosser afin de les convertis au mode "IPF.Note".
+
+Une fois le script téléchargé, exécutez le et ouvrez Outlook.
+
+{% @github-files/github-code-block url="https://github.com/Dr0id1/Playbooks/blob/master/VBS/FixImportedIMAPFolders.vbs" %}
+
+#### Manuellement
+
+Il est également possible de le faire manuellement à l'aide de l'outil MFCMAP que vous pouvez téléchargez [ici](https://github.com/microsoft/mfcmapi/releases).
+
+Exécutez le et connectez-vous
+
+<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+
+Sélectionnez le profil
+
+<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+
+Double-Cliquez sur la boite courriel concerné
+
+<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+
+Ouvrez le conteneur racine puis ouvrez "IPM\_SUBTREE"
+
+<figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+
+Sélectionnez un conteneur IMAP et modifiez la propriété "PR\_CONTAINER\_CLASS"
+
+<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+
+Remplacez "IPF.Imap" par "IPF.Note"
+
+<figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+
+Cliquez sur "OK" et répétez ces étapes pour tout les dossiers et sous-dossiers conercnés.

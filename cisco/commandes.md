@@ -2,7 +2,7 @@
 description: Page contenant des exemples de commande lié au CLI de Cisco
 ---
 
-# Commandes
+# ⌨️ CLI
 
 ## CheatSheet
 

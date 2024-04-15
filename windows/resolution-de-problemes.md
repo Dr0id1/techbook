@@ -4,7 +4,7 @@ description: >-
   en lien avec les différentes version de Windows
 ---
 
-# Résolution de problèmes
+# ❓ Résolution de problèmes
 
 ## Windows 7
 

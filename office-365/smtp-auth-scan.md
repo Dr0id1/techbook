@@ -1,4 +1,4 @@
-# SMTP AUTH (Scan)
+# 📤 SMTP AUTH (Scan)
 
 ## Configuration de base
 

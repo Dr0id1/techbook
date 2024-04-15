@@ -4,7 +4,7 @@ description: >-
   en lien avec Windows Server.
 ---
 
-# Résolution de problèmes
+# ❓ Résolution de problèmes
 
 ## Partage Windows
 

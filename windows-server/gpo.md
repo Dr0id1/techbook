@@ -2,7 +2,7 @@
 description: Différents guide pour l'utilisation des Group Policy Objects
 ---
 
-# GPO
+# 🔒 GPO
 
 ## Folder Redirection
 

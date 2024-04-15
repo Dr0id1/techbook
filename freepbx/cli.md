@@ -1,4 +1,4 @@
-# Logging
+# ⌨️ CLI
 
 ## Queue Logging
 
