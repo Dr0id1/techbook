@@ -6,10 +6,11 @@
 
 * [✉️ Exchange](office-365/exchange-online.md)
 * [🔑 2FA](office-365/2fa.md)
-* [📤 SMTP AUTH (Scan)](office-365/smtp-auth-scan.md)
+* [📤 Scan to Email](office-365/scan-to-email.md)
 * [📬 Outlook (App)](office-365/outlook-app.md)
 * [🏢 Office](office-365/office.md)
 * [🗄️ Sharepoint](office-365/sharepoint.md)
+* [⏭️ BitTitan](office-365/bittitan.md)
 
 ## Linux
 
