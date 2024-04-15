@@ -2,12 +2,12 @@
 
 * [Introduction](README.md)
 
-## Office / Office365 <a href="#office-365" id="office-365"></a>
+## Microsoft 365 <a href="#office-365" id="office-365"></a>
 
-* [Exchange Online](office-365/exchange-online.md)
+* [Exchange](office-365/exchange-online.md)
 * [2FA](office-365/2fa.md)
 * [SMTP AUTH (Scan)](office-365/smtp-auth-scan.md)
-* [Outlook](office-365/outlook.md)
+* [Outlook (App)](office-365/outlook-app.md)
 
 ## Linux
 
@@ -24,7 +24,7 @@
 
 ## Docker
 
-* [Commandes](docker/commandes.md)
+* [⌨️  CLI](docker/commandes.md)
 * [Containers](docker/containers.md)
 * [Traefik / CloudFlare](docker/traefik-cloudflare.md)
 

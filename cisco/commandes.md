@@ -6,7 +6,7 @@ description: Page contenant des exemples de commande lié au CLI de Cisco
 
 ## CheatSheet
 
-#### Configurer un VLAN
+### Configurer un VLAN
 
 ```bash
 Switch(config)#vlan 2
@@ -49,7 +49,7 @@ Switch(config-if)#ip address 10.1.99.2 255.255.255.0
 Switch(config-if)#ex
 ```
 
-#### Configurer SSH local
+### Configurer SSH local
 
 ```bash
 Switch(config)#line vty 0 4
@@ -57,7 +57,7 @@ Switch(config)#transport input ssh
 Switch(config)#login local
 ```
 
-#### Configuration Router on a Stick
+### Configuration Router on a Stick
 
 ```bash
 R1(config)#interface fa0/0.10
@@ -77,7 +77,7 @@ R1(config-subif)#encapsulattion dot1q 99
 R1(config-subif)#ip address 10.1.99.1 255.255.255.0
 ```
 
-#### Configurer DHCP Client
+### Configurer DHCP Client
 
 ```bash
 R1(config)#interface fa0/1
@@ -125,7 +125,7 @@ R1(config-subif)#ipv6 nd managed-config-flag
 R1(config)#exit
 ```
 
-#### Configuration IPV6 Acces-List
+### Configuration IPV6 Acces-List
 
 ```bash
 R1(config)#ipv6 access-list NOM
@@ -135,7 +135,7 @@ R1(config)#interface fa0/0.20
 R1(config-subinf)#ipv6 traffic-filter NOM in
 ```
 
-#### Configuration IPV4 Access-List standard
+### Configuration IPV4 Access-List standard
 
 ```bash
 R1(config)#access-list 20 deny 10.1.10.0 0.0.0.255
@@ -145,7 +145,7 @@ R1(config)#interface fa0/0.20
 R1(config-subif)#ip access-group 20 in
 ```
 
-#### Configuration IPV4 Access-List Étendue
+### Configuration IPV4 Access-List Étendue
 
 ```bash
 R1(config)#access-list 121 deny tcp 10.1.0.0 0.0.255.255 eq ftp any
