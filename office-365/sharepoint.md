@@ -12,6 +12,10 @@ Il est possible de générer un rapport complet pour les permissions d'un site S
 Vous devez impérativement modifier cette section du code.
 {% endhint %}
 
+{% hint style="danger" %}
+Vous devez avoir la version 7 de PowerShell d'installer
+{% endhint %}
+
 ```powershell
 #region ***Parameters***
 $SiteURL="https://tenant.sharepoint.com/sites/MONSITE"

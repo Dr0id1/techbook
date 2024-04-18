@@ -51,6 +51,7 @@
 ## Windows
 
 * [❓ Résolution de problèmes](windows/resolution-de-problemes.md)
+* [🐚 PowerShell](windows/powershell.md)
 
 ## Veeam
 
