@@ -1,4 +1,4 @@
-# 📤 SMTP AUTH (Scan)
+# 📤 Scan to Email
 
 ## Configuration de base
 
@@ -18,13 +18,13 @@ Sélectionnez "Manage email apps" et cochez "Authenticated SMTP"
 
 Voici un exemple de configuration pour une imprimante de marque Konica Minolta
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 ### Lexmark
 
 Voici un exemple de configuration pour une imprimante de marque Lexmark
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1).png>)
 
 ### Toshiba
 

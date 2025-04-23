@@ -48,7 +48,7 @@ Il faut ajouter ces 2 valeurs DWORD
 * MaxLargeFileSize
   * `4294967295` (decimal) ou `ffffffff` (hexadecimal)
 
-![Vous devriez obtenir ce résultat](<../.gitbook/assets/image (3).png>)
+![Vous devriez obtenir ce résultat](<../.gitbook/assets/image (3) (1).png>)
 
 #### Via les GPO
 

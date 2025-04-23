@@ -106,7 +106,7 @@ Voici les labels à définir dans les conteneurs qui seront aiguiller par Traefi
 
 ## CloudFlare
 
-![Mettre le mode d'encryption à "Full (strict)"](<../.gitbook/assets/image (2).png>)
+![Mettre le mode d'encryption à "Full (strict)"](<../.gitbook/assets/image (2) (1).png>)
 
 ![Activer "Always Use HTTP"](<../.gitbook/assets/image (45).png>)
 

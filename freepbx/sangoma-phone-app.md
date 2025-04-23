@@ -106,9 +106,21 @@ Assurez-vous que TLS et WS soit activé dans Settings-->Asterisk SIP Settings-->
 
 <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
+Changer le port 5061 --> 5060 dans (tls)
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 Une fois activé, modifier le "Default TLS Port Assignment" à PjSip dans l'onglet "General SIP Settings".
 
 <figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+
+### STUN Server
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+### ICE Host Candidates
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Advanced Settings <a href="#howtosetupsangomaphonedesktoponthepbx-advancedsettings" id="howtosetupsangomaphonedesktoponthepbx-advancedsettings"></a>
 
@@ -149,4 +161,4 @@ Dans le Gestionnaire des utilisateurs, les utilisateurs de Sangoma Phone devront
 
 L'écran de connexion du client de bureau sera toujours en anglais. Une fois connecté avec succès, le client sera traduit si le paramètre de langue de l'utilisateur correspond à une langue prise en charge par le client. Sinon, il sera par défaut en anglais. Le paramètre de langue de l'utilisateur peut être défini via Admin-->User Management, en modifiant un utilisateur ou un groupe.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
