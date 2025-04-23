@@ -1,8 +1,10 @@
-# 🧾 Configuration
+---
+description: Guide pour configurer WireGuard Road Warrior
+---
 
-## WireGuard
+# 🛡️ WireGuard
 
-### Interface
+## Interface
 
 Il faut débuter avec la création de l'interface WireGuard.&#x20;
 
@@ -22,7 +24,7 @@ Une fois appliqué, les clés privées et publiques seront créer automatiquemen
 Vous pouvez changer le port d'écoute par défaut.
 {% endhint %}
 
-### Firewall
+## Firewall
 
 Nous allons maintenant ajuster le firewall pour permettre les connexions entrantes.
 
@@ -36,13 +38,13 @@ Ajoutez ensuite l'interface WireGuard à votre interface list "LAN". De cette fa
 
 <figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
-### Address
+## Address
 
 Il faut créer le réseau qui sera utiliser par notre interface WireGuard-Main
 
 <figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
-### Peers
+## Peers
 
 Nous allons configurer notre premier peer.&#x20;
 

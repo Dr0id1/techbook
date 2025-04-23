@@ -34,7 +34,7 @@
 ## Mikrotik
 
 * [⌨️ CLI](mikrotik/cli.md)
-* [🧾 Configuration](mikrotik/configuration.md)
+* [🛡️ WireGuard](mikrotik/wireguard.md)
 
 ## Unifi
 
@@ -45,7 +45,7 @@
 * [🧾 Configuration](freepbx/configuration.md)
 * [📢 SNOM PA1](freepbx/snom-pa1.md)
 * [⌨️ CLI](freepbx/cli.md)
-* [📱 Sangoma Connect (Soft Phone)](freepbx/sangoma-connect-soft-phone.md)
+* [📱 Sangoma Connect (Soft Phone)](freepbx/sangoma-phone-app.md)
 * [📞 Polycom](freepbx/polycom.md)
 
 ## Windows
