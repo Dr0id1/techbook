@@ -45,7 +45,7 @@
 * [🧾 Configuration](freepbx/configuration.md)
 * [📢 SNOM PA1](freepbx/snom-pa1.md)
 * [⌨️ CLI](freepbx/cli.md)
-* [📱 Sangoma Phone (App)](freepbx/sangoma-phone-app.md)
+* [📱 Sangoma Connect (Soft Phone)](freepbx/sangoma-connect-soft-phone.md)
 * [📞 Polycom](freepbx/polycom.md)
 
 ## Windows
