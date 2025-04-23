@@ -33,7 +33,7 @@
 
 ## Mikrotik
 
-* [⌨️ CLI](mikrotik/cli.md)
+* [⌨️ Commandes Terminal](mikrotik/commandes-terminal.md)
 * [🛡️ WireGuard](mikrotik/wireguard.md)
 
 ## Unifi
